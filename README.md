@@ -47,15 +47,14 @@ Crear una **aplicación web responsive (mob page)** que se conecte a GitHub para
 * **Diseño y Usabilidad:** La interfaz de usuario, la experiencia de usuario y el diseño responsive.
 * **Calidad del Código:** Limpieza, organización y buenas prácticas en el código.
 * **Accesibilidad:** Que el sitio sea accesible para todos los usuarios, siguiendo principios básicos de accesibilidad web.
-* **Presentación:** Claridad y concisión al mostrar su trabajo en los 5 minutos asignados.
+* **Presentación:** Claridad y concisión al mostrar su trabajo en los 3 minutos asignados.
 
 ## 🎬 DEMO
 
-Al finalizar la hackathon, **cada equipo tendrá 5 minutos para presentar su aplicación** ante el resto de participantes y mentores. La demo debe incluir:
+Al finalizar la hackathon, **cada equipo tendrá 3 minutos para presentar su aplicación** ante el resto de participantes y mentores. La demo debe incluir:
 
 1. **Breve explicación funcional** de la app: ¿Qué hace? ¿Cómo lo hace? ¿Qué funcionalidades implementaron?
 2. **Demostración en vivo** de la aplicación ya desplegada.
-3. **Revisión del código**: Mostrad las partes más destacadas de vuestro código, haciendo énfasis en las **buenas prácticas** que habéis seguido (estructura del proyecto, uso de componentes, limpieza del código, uso de control de versiones, etc.).
 
 🔚 Una vez finalizadas todas las presentaciones, **todos los participantes y mentores votarán** por la mejor aplicación. **No se permite votar por el propio equipo.** La aplicación más votada será reconocida como la ganadora de esta Fast-Hackathon.
 
